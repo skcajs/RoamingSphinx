@@ -1,0 +1,15 @@
+C:\Users\sjack\Documents\Projects\RoamingSphinx\bin\Debug\net7.0\RoamingSphinx.exe
+C:\Users\sjack\Documents\Projects\RoamingSphinx\bin\Debug\net7.0\RoamingSphinx.deps.json
+C:\Users\sjack\Documents\Projects\RoamingSphinx\bin\Debug\net7.0\RoamingSphinx.runtimeconfig.json
+C:\Users\sjack\Documents\Projects\RoamingSphinx\bin\Debug\net7.0\RoamingSphinx.dll
+C:\Users\sjack\Documents\Projects\RoamingSphinx\bin\Debug\net7.0\RoamingSphinx.pdb
+C:\Users\sjack\Documents\Projects\RoamingSphinx\obj\Debug\net7.0\RoamingSphinx.csproj.AssemblyReference.cache
+C:\Users\sjack\Documents\Projects\RoamingSphinx\obj\Debug\net7.0\RoamingSphinx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjack\Documents\Projects\RoamingSphinx\obj\Debug\net7.0\RoamingSphinx.AssemblyInfoInputs.cache
+C:\Users\sjack\Documents\Projects\RoamingSphinx\obj\Debug\net7.0\RoamingSphinx.AssemblyInfo.cs
+C:\Users\sjack\Documents\Projects\RoamingSphinx\obj\Debug\net7.0\RoamingSphinx.csproj.CoreCompileInputs.cache
+C:\Users\sjack\Documents\Projects\RoamingSphinx\obj\Debug\net7.0\RoamingSphinx.dll
+C:\Users\sjack\Documents\Projects\RoamingSphinx\obj\Debug\net7.0\refint\RoamingSphinx.dll
+C:\Users\sjack\Documents\Projects\RoamingSphinx\obj\Debug\net7.0\RoamingSphinx.pdb
+C:\Users\sjack\Documents\Projects\RoamingSphinx\obj\Debug\net7.0\RoamingSphinx.genruntimeconfig.cache
+C:\Users\sjack\Documents\Projects\RoamingSphinx\obj\Debug\net7.0\ref\RoamingSphinx.dll
